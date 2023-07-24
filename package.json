@@ -1,10 +1,10 @@
 {
   "name": "it-react-helmet",
   "description": "A document head manager for React forked by Instant Teams",
-  "version": "6.2.2",
+  "version": "6.2.3",
   "main": "./lib/Helmet.js",
   "module": "./es/Helmet.js",
-  "author": "NFL <engineers@nfl.com>",
+  "author": "NFL <engineers@nfl.com> & Chris Kohler <chris@instantteams.com>",
   "contributors": [
     "Chris Welch <chris.welch@nfl.com>",
     "Robert dela Victoria <robert.delavictoria@nfl.com>",
@@ -13,7 +13,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/nfl/react-helmet"
+    "url": "https://github.com/Instant-Teams/it-react-helmet"
   },
   "keywords": [
     "react-helmet",
